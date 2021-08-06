@@ -39,6 +39,7 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# and also https://jpswalsh.github.io/academicons/
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -54,15 +55,15 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8291-9544
-#- icon: database
-#  icon_pack: fas
-#  link: https://dataverse.harvard.edu/dataverse/christianoswald
 - icon: dataverse
   icon_pack: ai
   link: https://dataverse.harvard.edu/dataverse/christianoswald
 - icon: github
   icon_pack: fab
   link: https://github.com/christianoswald
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/ux9zp/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
