@@ -6,7 +6,7 @@ title: Christian Oswald
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Teaching Fellow & PhD Candidate
 
 # Organizations/Affiliations
 organizations:
