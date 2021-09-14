@@ -79,11 +79,12 @@ subtitle = ""
 <!-- ## Instructor
 * Fall 2018 - 2020: Political Science Math Camp (PhD) - [syllabus](files/math_camp_syllabus.pdf)
 * Fall 2020: POU44251 Politics of Forced Migration (Undergraduate)  [syllabus](files/politics_of_forced_migration_syllabus.pdf) -->
+## Instructor
+* Fall 2021: PO0851 International Conflict B (Postgraduate)
+* Fall 2021: POU44021 Contemporary International Relations B (Undergraduate)
+* Fall 2021: POU33011 Research Methods for Political Science A (Undergraduate)
 
 ## Teaching Assistant
-<!-- * Fall 2020: POU22021 International Relations A: Theories of International Politics (Undergraduate)
-* Spring 2020: POU22022 International Relations B: Topics and Treaties (Undergraduate)
-* Fall 2019: POU22021 International Relations A: Theories of International Politics (Undergraduate) -->
-* Fall 2018, 2019, 2020: PO2140/POU22021 International Relations A: Theories of International Politics (Undergraduate)
-* Spring 2019, 2020: PO2141/POU22022 International Relations B: Topics and Treaties (Undergraduate)
+* Fall 2018-2020: PO2140/POU22021 International Relations A: Theories of International Politics (Undergraduate)
+* Spring 2019-2021: PO2141/POU22022 International Relations B: Topics and Treaties (Undergraduate)
 * 2017-2018: PO1600 Introduction to Political Science (Undergraduate)
